@@ -4,6 +4,8 @@ public class Main {
 
         System.out.println("Hello and welcome!");
         System.out.println("welcome sai");
+        System.out.println("how are you");
+        System.out.println("name");
 
 
         }
