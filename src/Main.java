@@ -6,6 +6,7 @@ public class Main {
         System.out.println("how are you");
         System.out.println("sai prakash reddy gopu");
         System.out.println("age");
+        System.out.println("village");
 
 
 
